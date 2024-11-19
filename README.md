@@ -147,8 +147,8 @@ Feel free to add your questions and code snippets below and submit them as issue
 
 ## Contact Me
 
-📄 **[Resume]([CV_Ritanshi_2024.pdf](https://github.com/user-attachments/files/17816966/CV_Ritanshi_2024.pdf)
-)**  
+📄 **[Resume][CV_Ritanshi_2024.pdf](https://github.com/user-attachments/files/17817467/CV_Ritanshi_2024.pdf)
+**  
 📧 **[Email](mailto:ritanshi.arya@gmail.com)**  
 📞 **Phone**: +123-456-7890  
 
