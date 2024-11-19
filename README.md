@@ -74,7 +74,7 @@ Here’s an overview of the database structure:
 The following queries were created to solve specific business questions. Each query is designed to provide insights based on sales, payments, products, and customer data.
 
 ### Easy 
-1. `Add your questions here`
+1. `Retrieve a list of all customers with their corresponding product names they ordered. `
 2. `Add your questions here`
 3. `Add your questions here`
 4. `Add your questions here`
@@ -130,7 +130,8 @@ Feel free to add your questions and code snippets below and submit them as issue
 
 ## Contact Me
 
-📄 **[Resume](#)**  
+📄 **[Resume]([CV_Ritanshi_2024.pdf](https://github.com/user-attachments/files/17816966/CV_Ritanshi_2024.pdf)
+)**  
 📧 **[Email](mailto:ritanshi.arya@gmail.com)**  
 📞 **Phone**: +123-456-7890  
 
